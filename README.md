@@ -1,4 +1,4 @@
-# Resume Optimizer
+# Resume Optimizer-PBL 2
 
 Resume Optimizer is a web application that helps users manage and improve resumes for better job applications. It combines resume storage, structured editing workflows, and AI-assisted analysis in one platform.
 
